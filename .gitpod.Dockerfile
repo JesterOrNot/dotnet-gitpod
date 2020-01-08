@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full
+FROM gitpod/workspace-dotnet
 USER gitpod
 
 # Install .NET
